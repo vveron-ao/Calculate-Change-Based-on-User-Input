@@ -1,1 +1,1 @@
-These Python files are the programs I made when I first started learning Python. Each file focuses on a different knowledge base when learning Python.
+These Python files are the programs I made when I first started learning Python. Each file focuses on a different knowledge base when learning Python. (Ex. Loop focus, list focus, variable manipulation, etc.)
