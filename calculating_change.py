@@ -1,3 +1,4 @@
+#This code calculates the change due after a transaction by subtracting the cost from the amount paid, then breaks down the change into quarters, dimes, nickels, and pennies. It provides a detailed output of the number and type of @coins required to give the correct change.
 from math import *
 quarter = 25
 dime = 10
